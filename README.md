@@ -1,4 +1,4 @@
-# Hi there! I'm Jesse, a software intern for Digital Dynamics.&#128075;
+### Hi there! I'm Jesse, a software intern for Digital Dynamics.&#128075;
 
 
 ## Welcome to my Github
